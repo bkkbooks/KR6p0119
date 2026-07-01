@@ -1,0 +1,293 @@
+canonical_identifier: bkk:krp/KR6p0119/v1
+canonical_location: https://kanripo.org/bkk/KR6p0119/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 時時好念佛
+  identifiers:
+    alt_id:
+    - X62n1200
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1200.xml
+    old_id: X62n1200
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0119_000.yaml, hash: 'sha256:ff5264ca7650a53efd632473ed1c6f785fc18e370b0dc211ef963bfe5e03ecc5'}
+  - {seq: 1, filename: KR6p0119_001.yaml, hash: 'sha256:2cab3957dc939cad8190142aedf80345857487fc181385dc577cda266b473d00'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0119_000.markers.yaml, hash: 'sha256:71088e3358918ad1601a571da88bfc1581e812a1a3368289e893f5fcbffe26db'}
+  - {seq: 1, role: markers, filename: assets/KR6p0119_001.markers.yaml, hash: 'sha256:a18f00a9b4fbc17c386584bf7b274cb2a1d6e5eef0aeec823b0dcfe3b1bb4132'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0119_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1200-A 時時念佛序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0119_X_000-mulu-2
+    span:
+    - front
+    - 245
+    - 245
+  label: 時時好念佛目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4514
+  label: 時時好念佛
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 前偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-2
+    span:
+    - body
+    - 232
+    - 232
+  label: 十二個月念佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-3
+    span:
+    - body
+    - 901
+    - 901
+  label: 十二時中念佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-4
+    span:
+    - body
+    - 1682
+    - 1682
+  label: 戒殺醒世偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-5
+    span:
+    - body
+    - 1927
+    - 1927
+  label: 知足歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-6
+    span:
+    - body
+    - 2170
+    - 2170
+  label: 修身成佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-7
+    span:
+    - body
+    - 2175
+    - 2175
+  label: 修心往生偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-8
+    span:
+    - body
+    - 2180
+    - 2180
+  label: 觀世音菩薩夢傳勸世女人念佛實跡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-9
+    span:
+    - body
+    - 2243
+    - 2243
+  label: 大勢至菩薩夢傳勸世清淨口業寶偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-10
+    span:
+    - body
+    - 2435
+    - 2435
+  label: 辦魔略說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-11
+    span:
+    - body
+    - 2495
+    - 2495
+  label: 第一宿冤魔為之業障
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-12
+    span:
+    - body
+    - 2588
+    - 2588
+  label: 第二外惑魔為之人障
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-13
+    span:
+    - body
+    - 2681
+    - 2681
+  label: 第三口業魔為之狂障
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-14
+    span:
+    - body
+    - 2801
+    - 2801
+  label: 第四病苦魔為之苦障
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-15
+    span:
+    - body
+    - 3062
+    - 3062
+  label: 念佛功德不可思議
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-16
+    span:
+    - body
+    - 3657
+    - 3657
+  label: 戒淫偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-17
+    span:
+    - body
+    - 3716
+    - 3716
+  label: 本性偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-18
+    span:
+    - body
+    - 3775
+    - 3775
+  label: 自慙偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-19
+    span:
+    - body
+    - 3834
+    - 3834
+  label: 收心自在
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-20
+    span:
+    - body
+    - 3893
+    - 3893
+  label: 朝拜名山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-21
+    span:
+    - body
+    - 3953
+    - 3953
+  label: 懶僧偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-22
+    span:
+    - body
+    - 4011
+    - 4011
+  label: 醒世偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0119_X_001-mulu-23
+    span:
+    - body
+    - 4070
+    - 4070
+  label: 十二大願
+  type: mulu
+  level: 1
+hash: sha256:a706e44483e40df2b86329fb13788bc0e6ffd96a2567da9d022b92d260d56988
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
