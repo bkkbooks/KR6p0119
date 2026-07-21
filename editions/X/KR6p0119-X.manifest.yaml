@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0119_000-X.yaml, hash: 'sha256:483913b06239c4346c9e8b4432c2e89bcac16a760daee53c5fa627bc87e1d6aa'}
+  - {seq: 0, filename: KR6p0119_000-X.yaml, hash: 'sha256:1276e6652c3dda58090df5e4750e86130a0e42eb3e0e687a96652bde29eefd8a'}
   - {seq: 1, filename: KR6p0119_001-X.yaml, hash: 'sha256:5d7c1f2d97c0d37250a5b71aa42f001f9fe99eba7bd384b4cec2c4d5523a929e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0119_000-X.markers.yaml, hash: 'sha256:d19ed54d2253f4abcb2a5e19542adf301533358804e298da965df57dd88dcf33'}
+  - {seq: 0, role: markers, filename: assets/KR6p0119_000-X.markers.yaml, hash: 'sha256:48304c79956975b47612b554ab7c88bdc07c34c21eb674a72f7c11662997135a'}
   - {seq: 1, role: markers, filename: assets/KR6p0119_001-X.markers.yaml, hash: 'sha256:4db6b3d3abd91176a79960ee44469f35f50845d33a3294e66521268f02f854e5'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0119_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1200-A 時時念佛序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0119_X_000-mulu-2
     span:
-    - front
+    - body
     - 245
     - 245
   label: 時時好念佛目錄
@@ -285,4 +285,4 @@ table_of_contents:
   label: 十二大願
   type: mulu
   level: 1
-hash: sha256:97949673ec4677db52b8262a3d16bef1a85474fa7f47312e53fb42392778ef4d
+hash: sha256:e70f25e8d95c6ff1a12a40667a3fa4cd93b38c015970be231a88fd3680127481

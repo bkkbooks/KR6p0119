@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0119_000.yaml, hash: 'sha256:eb70026fb2a6dc9c1de648117034c056d0e16dde2c25b473a7723697ee110790'}
+  - {seq: 0, filename: KR6p0119_000.yaml, hash: 'sha256:2d910d259a8747e100c6b329921f2151ed78230f1fcec2300acae30d20ddc4f3'}
   - {seq: 1, filename: KR6p0119_001.yaml, hash: 'sha256:1b329eaf1bc6a20f0331c8c93512ec8e5642a021ad1be98a41abeac200496e8c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0119_000.markers.yaml, hash: 'sha256:cf4ceed4968ef9132ffee95ed0fdc88be67876ad56506af4f1f892473551f71e'}
+  - {seq: 0, role: markers, filename: assets/KR6p0119_000.markers.yaml, hash: 'sha256:204022822cfed332d8565fdb4afa5068f9add26dddfc6e271bb75a32d58ed362'}
   - {seq: 1, role: markers, filename: assets/KR6p0119_001.markers.yaml, hash: 'sha256:e53db83bbfaccbd665caddbfe382e52d5294d6158b2b807bc145490e991a1a89'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0119_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1200-A 時時念佛序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0119_X_000-mulu-2
     span:
-    - front
+    - body
     - 245
     - 245
   label: 時時好念佛目錄
@@ -287,7 +287,7 @@ table_of_contents:
   label: 十二大願
   type: mulu
   level: 1
-hash: sha256:2291aa99208b986e25039ddaba4376387f8e8b8e208eeba99e157db50f8a424b
+hash: sha256:df5ae322172f86285fbcc55233e71e747779ab577897e54915e552fdb7e4d0d1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
